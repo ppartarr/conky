@@ -1,4 +1,4 @@
---require 'cairo'
+require 'cairo'
 
 function conky_main ()
   if conky_window == nil then
